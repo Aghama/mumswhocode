@@ -456,10 +456,10 @@ a {
  margin:0 auto;
 }
 .cards-list {
-  z-index: 0;
+  z-index: 2;
   width: 100%;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   flex-wrap: wrap;
   }
 
